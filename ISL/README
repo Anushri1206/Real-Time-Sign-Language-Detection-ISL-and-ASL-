@@ -1,1 +1,20 @@
+Recognition of Indian Sign Language
 
+Google Drive link for External ISL Datasets 
+(Original Images in train_dataset, 
+preprocessed training images in train_processed, 
+preprocessed testing images in test_processed):
+
+train_dataset: https://drive.google.com/drive/folders/1boqHZ2VhTFEtEZkrRvvJOHGHc1ye-dsH?usp=sharing
+train_processed: https://drive.google.com/drive/folders/1boqHZ2VhTFEtEZkrRvvJOHGHc1ye-dsH?usp=sharing
+test_processed: https://drive.google.com/drive/folders/1boqHZ2VhTFEtEZkrRvvJOHGHc1ye-dsH?usp=sharing
+
+Download the dataset folders and ISL_CNN.ipynb, ROI_ISL.ipynb and islcnnmodel11.h5. Add them in a single folder.
+
+1)Open ISL_CNN to perform preprocessing and create the model(Optional)
+
+2)The trained model has been saved as 'islcnnmodel11.h5'
+
+3)Open ROI_ISL.ipynb and run. Once the camera interface opens, predict in real time with hand gestures.
+
+Thank you! 
