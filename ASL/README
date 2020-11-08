@@ -1,1 +1,9 @@
+American Sign Language Detection
 
+1.Download the datasets from(https://www.kaggle.com/datamunge/sign-language-mnist) as train.csv and test.csv
+
+2.Run the ASLCNNtry2.ipynb if you want to create the model.(optional)
+
+3.As the model is already uploaded you can directly open ROI_ASL.ipynb
+
+4.Run the code and Once camera frame opens depict the sign language gesture. Prediction will be made on the frame.
